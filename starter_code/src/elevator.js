@@ -20,7 +20,7 @@ class Elevator {
 
   floorDown() {
     if (this.floor === 0) {
-      console.log("Do you want ants? cause this's how you get ants");
+      console.log("Do you want ants? cause this is how you get ants");
     } else {
       this.floor--;
     }
